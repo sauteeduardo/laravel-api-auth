@@ -66,3 +66,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 #####
 
 <b>Application built to test the auth0 api to authorize rest methods</b>
+
+This application was built using laravel <b>8.83.23</b> and PHP <b>7.4</b>
+
+Application to test and study based on https://auth0.com/blog/build-and-secure-laravel-api/ (auth0 documentation)
